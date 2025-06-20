@@ -1,0 +1,35 @@
+                               Nombre de la variable
+
+                                                Significado
+
+                                                Codificación aplicada (si es categórica)
+
+                                                Tipo: categórica o numérica
+            'DECIDE',
+       'DIFFALON',
+        'COLNCNCR',
+         'HIVRISK5',
+          'COVIDPOS',
+           'LSATISFY', 
+           'EMTSUPRT',
+       'SDHISOLT',
+        'SDHEMPLY',
+         'SDHFOOD1',
+          'SDHBILLS', 
+          'SDHUTILS',
+           'SDHTRNSP',
+       '_PHYS14D',
+        '_MENT14D',
+         '_HLTHPLN',
+          '_TOTINDA',
+           '_MICHD',
+            '_ASTHMS1',
+       '_DRDXAR2',
+        '_AGEG5YR',
+         '_BMI5CAT', 
+         '_CHLDCNT',
+          '_EDUCAG',
+           '_INCOMG1',
+       '_RFBING6',
+        '_AIDTST4',
+         'tobacco_use']
